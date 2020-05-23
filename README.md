@@ -4,6 +4,11 @@ instalar deno na máquina https://deno.land/x/install/
 
 instalar extensão Deno no editor (utilizo a do justjavac)
 
+Startar o servidor:
+```
+deno run --allow-net server.ts
+```
+
 **ALGUNS DIFERENCIAIS**
 
 as dependências não são mais instaladas na raiz do projeto na pasta node_modules, elas são importadas de uma url externa 
