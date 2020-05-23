@@ -2,7 +2,7 @@
 
 instalar deno na máquina https://deno.land/x/install/
 
-instalar extensão no editor justjavac
+instalar extensão Deno no editor (utilizo a do justjavac)
 
 **ALGUNS DIFERENCIAIS**
 
