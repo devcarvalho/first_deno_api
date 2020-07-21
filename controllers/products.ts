@@ -15,13 +15,13 @@ let products: Product[] = [
     id: "2",
     name: "mesa",
     description: "mesa de vidro 4 cadeiras",
-    price: 350,00
+    price: 750,00
   },
   {
     id: "3",
     name: "fogao",
     description: "fogão 6 bocas Brastemp",
-    price: 650,00
+    price: 1299,00
   },
 ];
 
