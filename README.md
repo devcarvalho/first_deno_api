@@ -12,11 +12,8 @@ deno run --allow-net server.ts
 __PRODUTOS DE OTIMA QUALIDADES__
 
  voce que planeja mobilhar sua casa do seu  jeito!  Venha e confira.
- 
- Lista de tarefas
  ***
+ __Lista de tarefas__
  -[]criar site
  -[]colocar preços
  -[]divugaçao de produtos
- 
- 
