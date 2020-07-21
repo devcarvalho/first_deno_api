@@ -9,6 +9,14 @@ Startar o servidor:
 deno run --allow-net server.ts
 ```
 
-produtos de otima qualidades
+__PRODUTOS DE OTIMA QUALIDADES__
 
-auqi voce que planeja mobilhar sua casa do seu  jeito e o lugar certo ,Venha e confira.
+ voce que planeja mobilhar sua casa do seu  jeito!  Venha e confira.
+ 
+ Lista de tarefas
+ ***
+ -[]criar site
+ -[]colocar preços
+ -[]divugaçao de produtos
+ 
+ 
