@@ -7,21 +7,21 @@ import { v4 } from "https://deno.land/std/uuid/mod.ts";
 let products: Product[] = [
   {
     id: "1",
-    name: "Produto Um",
-    description: "Esse é o produto 1",
-    price: 19.99,
+    name: "sofá 3",
+    description: "sofá de camurça 3 lugares",
+    price: 1199,00
   },
   {
     id: "2",
-    name: "Produto 2",
-    description: "Esse é o produto 2",
-    price: 29.99,
+    name: "mesa",
+    description: "mesa de vidro 4 cadeiras",
+    price: 750,00
   },
   {
     id: "3",
-    name: "Produto 3",
-    description: "Esse é o produto 3",
-    price: 39.99,
+    name: "fogao",
+    description: "fogão 6 bocas Brastemp",
+    price: 1299,00
   },
 ];
 
